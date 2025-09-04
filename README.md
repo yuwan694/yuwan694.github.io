@@ -8,6 +8,9 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 
 ## Echo Reviews
 
+### [Using VSCode for Python](https://docs.google.com/document/d/e/2PACX-1vTO0qs19g1TFRSKFeg3Rdo4wpBodCBolCwpk0rNY4CK8aSoPDoYtAsH2OM4Ozzr_nEp4f1uOR1GYurt/pub)
+This is part of the evaluation of alpaca sdk, and I’ll start using VSCode for the python repo created for it. During the creation of the python repo, I just used the command line and web interface, but in actual development I have used VSCode since 2023. The previous tool I’ve used PyCharm from JetBrains was also good, but I think VSCode is better.
+
 ### [InfinityFree WordPress Publishing](https://docs.google.com/document/d/e/2PACX-1vStF8kLlgj0SeDV53oVXHiBDX67xv2waptEhepkH7C15izunJd10OV8s9mrTr-M7YVa4m_xHzZh6US2/pub)
 For echo-review contents, I am evaluating a WordPress Publishing on InfinityFree. And they have an unlimited free web hosting service.
 
