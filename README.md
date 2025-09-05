@@ -6,6 +6,7 @@
 [echo-review-guided-learning](https://docs.google.com/document/d/e/2PACX-1vRFHzBfHa-lZY0_WSHCMP3gc6i6WnucLL_4aFFPcR5a_K19mXyby4BmpDfpoxwpjzRXxxnIn58CP9_x/pub)  
 echo-review-evaluation  
 echo-review-verification  
+echo-review-cross-checking  
 echo-review-feedback  
 echo-review-community  
 echo-review-culture  
