@@ -1,20 +1,17 @@
-# Echo Review
 [GitHup Pages](https://echo-review.com/),
 [WordPress](https://echo-review.free.nf)  
 
-## What is Echo Review?
-echo-review-learning  
+# What is Echo Review?
+[echo-review-learning](https://docs.google.com/document/d/e/2PACX-1vT3XmPU6_6sVhs-OJdU31uEXHULB6Q0THjeCuIE960bZsoL6LQf3gzV2G0a5CC3laNz_x9-dtYFtJrG/pub)  
+[echo-review-guided-learning](https://docs.google.com/document/d/e/2PACX-1vRFHzBfHa-lZY0_WSHCMP3gc6i6WnucLL_4aFFPcR5a_K19mXyby4BmpDfpoxwpjzRXxxnIn58CP9_x/pub)  
 echo-review-evaluation  
 echo-review-verification  
 echo-review-feedback  
 echo-review-community  
 echo-review-culture  
-echo-review-sharing
+echo-review-sharing  
 
-### [Echo Review, the way I learn everything](https://docs.google.com/document/d/e/2PACX-1vT3XmPU6_6sVhs-OJdU31uEXHULB6Q0THjeCuIE960bZsoL6LQf3gzV2G0a5CC3laNz_x9-dtYFtJrG/pub)
-It is a learning activity by redoing what I have learned, and logging all the progress.
-
-## Echo Reviews
+# Echo Reviews
 
 ### [Echo-Review Tools Python Package](https://docs.google.com/document/d/e/2PACX-1vRJk1UCyUG5eshAMjtI57gzkd4Bwf6oBooKaNB8ETQI_dP2dM8QbxlaZ4_nbxVD39VxyFm9SN1Whs9R/pub)
 Coming soon..
