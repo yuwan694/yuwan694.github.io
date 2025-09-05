@@ -1,7 +1,15 @@
 # Echo Review
-[GitHup Pages](https://echo-review.com/), [WordPress](https://echo-review.free.nf)
+[GitHup Pages](https://echo-review.com/),
+[WordPress](https://echo-review.free.nf)  
 
 ## What is Echo Review?
+echo-review-learning  
+echo-review-evaluation  
+echo-review-verification  
+echo-review-feedback  
+echo-review-community  
+echo-review-culture  
+echo-review-sharing
 
 ### [Echo Review, the way I learn everything](https://docs.google.com/document/d/e/2PACX-1vT3XmPU6_6sVhs-OJdU31uEXHULB6Q0THjeCuIE960bZsoL6LQf3gzV2G0a5CC3laNz_x9-dtYFtJrG/pub)
 It is a learning activity by redoing what I have learned, and logging all the progress.
@@ -12,7 +20,7 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 Coming soon..
 
 ### [VSCode Extension for Unit Test](https://docs.google.com/document/d/e/2PACX-1vQDoSAk7cFIkyfUVZ-vzg4MB0Fax_XKz_f2yOcyW_PJ3lB95XqxGCdtX4uObwgwmTcmGcvo_1wHutW8/pub)
-Coming soon..
+As I have shown in the Alpaca Crypto Bar Market Data echo-review, it is very useful having the unit test class in the same script with the implementation class, and if you can run each unit test right away from the code.
 
 ### [Alpaca Crypto Bar Market Data](https://docs.google.com/document/d/e/2PACX-1vSbO0Z71FGjZoAHNtqJCIjSdJyvg8Num48C_SKdutLMPdZa9bkfKp11N0Pjbe9GuUlmEgL1ekTcB3qz/pub)
 The very first Alpaca SDK evaluation is about getting Crypto Bar Market Data from alpaca service. The implementation class is CryptoBar, and I made the initialisation function to take all the key word arguments as the spec for the class. So that the caller can specify the different requests when constructing the CryptoBar class.
