@@ -17,6 +17,9 @@ echo-review-sharing
 ### [Echo-Review Tools Python Package](https://docs.google.com/document/d/e/2PACX-1vRJk1UCyUG5eshAMjtI57gzkd4Bwf6oBooKaNB8ETQI_dP2dM8QbxlaZ4_nbxVD39VxyFm9SN1Whs9R/pub)
 Coming soon..
 
+### [Retirement Money Spending Simulation](https://docs.google.com/document/d/e/2PACX-1vSCoJ6lVJEBrWnhhnrF-16-wzdbKJ0LziqYdtx_b1l-zeaTwBPYPNUqUwKiYRdVoaN4M39YV0bZ-6nv/pub)
+I’d like to echo-review the statement “With investment return of 8%, and inflation rate of 3%, the $1m invested can last 30 years, while you spending $61k per year”
+
 ### [VSCode Extension for Unit Test](https://docs.google.com/document/d/e/2PACX-1vQDoSAk7cFIkyfUVZ-vzg4MB0Fax_XKz_f2yOcyW_PJ3lB95XqxGCdtX4uObwgwmTcmGcvo_1wHutW8/pub)
 As I have shown in the Alpaca Crypto Bar Market Data echo-review, it is very useful having the unit test class in the same script with the implementation class, and if you can run each unit test right away from the code.
 
