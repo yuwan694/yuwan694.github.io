@@ -1,5 +1,3 @@
-[GitHup Pages](https://echo-review.com/),
-[WordPress](https://echo-review.free.nf)  
 
 # What is Echo Review?
 [echo-review-learning](https://docs.google.com/document/d/e/2PACX-1vT3XmPU6_6sVhs-OJdU31uEXHULB6Q0THjeCuIE960bZsoL6LQf3gzV2G0a5CC3laNz_x9-dtYFtJrG/pub)  
@@ -38,3 +36,9 @@ GitHub Pages are providing an easy way to make static web pages. I’ll use this
 
 ### [Create a new repo for a python project](https://docs.google.com/document/d/e/2PACX-1vTC_sEQaTS1hDEwW21iwXDcCElZQb0jiNG4RPP-5gmwDHSZU-L6OtyiP1SRTMVHN8ObO2AvS7r9R_uM/pub)
 I’ll create a new repo for Alpaca SDK evaluation, but any python package repo could be started in the same way. I’ll use a virtual environment for a python project, and will add minimal necessary files in the beginning. In this case, I’ll use GitLab for the remote repo service.
+
+---
+[GitHup Pages](https://echo-review.com/),
+[WordPress](https://echo-review.free.nf),
+[Blogger](https://echo-review-learning.blogspot.com/)  
+The echo-review main site is not fully dynamic at the moment. Please post your comments [here](http://echo-review.free.nf/2025/09/07/post-your-comments-here/), or [here](https://echo-review-learning.blogspot.com/2025/09/post-your-comments-here.html), for now.
