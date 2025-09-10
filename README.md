@@ -14,7 +14,7 @@ echo-review-sharing
 # Echo Reviews
 
 ### [Echo-Review Tools Python Package](https://docs.google.com/document/d/e/2PACX-1vRJk1UCyUG5eshAMjtI57gzkd4Bwf6oBooKaNB8ETQI_dP2dM8QbxlaZ4_nbxVD39VxyFm9SN1Whs9R/pub)
-Work in progress..
+While I was doing echo-review for Alpaca Crypto Bar Market Data, I realised I needed to write the common tools python package for Echo Reviews. With this package, I’ll generate standard library documents and register to pip registry
 
 ### [Retirement Money Spending Simulation](https://docs.google.com/document/d/e/2PACX-1vSCoJ6lVJEBrWnhhnrF-16-wzdbKJ0LziqYdtx_b1l-zeaTwBPYPNUqUwKiYRdVoaN4M39YV0bZ-6nv/pub)
 I’d like to echo-review the statement “With investment return of 8%, and inflation rate of 3%, the $1m invested can last 30 years, while you spending $61k per year”
