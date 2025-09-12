@@ -14,6 +14,9 @@ echo-review-tax-return
 
 # Echo Reviews
 
+### [Alpaca Basic Subscription](https://docs.google.com/document/d/e/2PACX-1vQJDXYdoSk7kIJJcBP5aqtKB76PaXB3_yb_-xhUBA_vs9Q-20QsoPT319unoRygO-kicSFXVvTZ3VaR/pub)
+I spent some time reviewing alpaca market data sdk, and now it is time to create an account to do more reviews. I’ll go for the basic subscription to begin with. This subscription will let me generate an api key, to explore more features alpaca supports.
+
 ### [Echo-Review Tools (ervTools) Python Package](https://docs.google.com/document/d/e/2PACX-1vRJk1UCyUG5eshAMjtI57gzkd4Bwf6oBooKaNB8ETQI_dP2dM8QbxlaZ4_nbxVD39VxyFm9SN1Whs9R/pub)
 While I was doing echo-review for Alpaca Crypto Bar Market Data, I realised I needed to write the common tools python package for Echo Reviews. With this package, I’ll generate standard library documents and register to pip registry
 
