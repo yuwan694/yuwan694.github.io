@@ -14,6 +14,10 @@ echo-review-tax-return
 
 # Echo Reviews
 
+### [Crypto Exchange API in Australia](https://docs.google.com/document/d/e/2PACX-1vT2OWT2km43mUTpmIXZ5ouVKNTmKR42Bqo8JMY6JvuX4BosMKBu156sD-haQAI4urvvnd5Of6aYkcdy/pub)
+After evaluation of the Alpaca SDK, I’d like to see the other APIs available in Australia. To get in to the deeper evaluation, I need to open live account. But that requires me entering my personal details, and also official documents, like driving license, passport, etc. Alpaca is based on US, so I felt unsure about doing this with Australian documents. This is the major reason I’m looking for Australian Crypto Exchange. Also Alpaca is a kind of broker, not an exchange. So this time I’d like to use an exchange API
+
+
 ### [Retirement Money Spending Simulation](https://docs.google.com/document/d/e/2PACX-1vSCoJ6lVJEBrWnhhnrF-16-wzdbKJ0LziqYdtx_b1l-zeaTwBPYPNUqUwKiYRdVoaN4M39YV0bZ-6nv/pub)
 I’d like to echo-review the statement “With investment return of 8%, and inflation rate of 3%, the $1m invested can last 30 years, while you spending $61k per year”
 
