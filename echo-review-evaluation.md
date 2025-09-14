@@ -3,6 +3,7 @@
 [echo-review](README.md)  
 [echo-review-evaluation-tools](https://docs.google.com/document/d/e/2PACX-1vRJk1UCyUG5eshAMjtI57gzkd4Bwf6oBooKaNB8ETQI_dP2dM8QbxlaZ4_nbxVD39VxyFm9SN1Whs9R/pub)  
 [echo-review-evaluation-alpaca-sdk](https://docs.google.com/document/d/e/2PACX-1vTv72iby2YumdtaaMv0IkPx32uVbOvJrgmW7npQUC1bdOngCR2PQnM-VP9Y9P8-xezxoQO-ak5_0uBI/pub)  
+[echo-review-evaluation-btc-markets-api](https://docs.google.com/document/d/e/2PACX-1vQZS00upl6zm4JGGK4Bs6i8bUyHb9KLiaLd7mEYfWkXx3pjYKuG1c40t0Ny4LaQ6dWeDYsp7xK8tjTA/pub)  
 
 # Echo Reviews
 
