@@ -7,6 +7,9 @@
 
 # Echo Reviews
 
+### [BTC Markets Live MD Client](https://docs.google.com/document/d/e/2PACX-1vQGPCilY-8OCKJYJb52BST59fvXus8Hi6KspL7AFSp8tFhKyq6e4gkdoP5Cz5vJqWUAUtfVzaWuJCvK/pub)
+This is part of the BTC Markets API Evaluation, and this time it is about Live Market Data client with WebSocket. I have referenced the implementation here.
+
 ### [Generic BTC Markets Connection Client](https://docs.google.com/document/d/e/2PACX-1vSHC6qbVGqAyYna9fnieUrp_KOuOfdZPEcjLOeGj6Dav5fuit9P6t17YLmL38H6X2M6unHWGM71amuF/pub)
 This is part of the BTC Markets API Evaluation, and I’ll create a generic connection client for BTC Markets API. This client will handle the authentication and https request and reply.
 
