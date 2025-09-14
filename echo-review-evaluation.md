@@ -7,6 +7,9 @@
 
 # Echo Reviews
 
+### [Generic BTC Markets Connection Client](https://docs.google.com/document/d/e/2PACX-1vSHC6qbVGqAyYna9fnieUrp_KOuOfdZPEcjLOeGj6Dav5fuit9P6t17YLmL38H6X2M6unHWGM71amuF/pub)
+This is part of the BTC Markets API Evaluation, and I’ll create a generic connection client for BTC Markets API. This client will handle the authentication and https request and reply.
+
 ### [Alpaca Basic Subscription](https://docs.google.com/document/d/e/2PACX-1vQJDXYdoSk7kIJJcBP5aqtKB76PaXB3_yb_-xhUBA_vs9Q-20QsoPT319unoRygO-kicSFXVvTZ3VaR/pub)
 I spent some time reviewing alpaca market data sdk, and now it is time to create an account to do more reviews. I’ll go for the basic subscription to begin with. This subscription will let me generate an api key, to explore more features alpaca supports.
 
