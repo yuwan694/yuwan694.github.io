@@ -21,9 +21,6 @@ After evaluation of the Alpaca SDK, I’d like to see the other APIs available i
 ### [Retirement Money Spending Simulation](https://docs.google.com/document/d/e/2PACX-1vSCoJ6lVJEBrWnhhnrF-16-wzdbKJ0LziqYdtx_b1l-zeaTwBPYPNUqUwKiYRdVoaN4M39YV0bZ-6nv/pub)
 I’d like to echo-review the statement “With investment return of 8%, and inflation rate of 3%, the $1m invested can last 30 years, while you spending $61k per year”
 
-### [VSCode Extension for Unit Test](https://docs.google.com/document/d/e/2PACX-1vQDoSAk7cFIkyfUVZ-vzg4MB0Fax_XKz_f2yOcyW_PJ3lB95XqxGCdtX4uObwgwmTcmGcvo_1wHutW8/pub)
-As I have shown in the Alpaca Crypto Bar Market Data echo-review, it is very useful having the unit test class in the same script with the implementation class, and if you can run each unit test right away from the code.
-
 ### [InfinityFree WordPress Publishing](https://docs.google.com/document/d/e/2PACX-1vStF8kLlgj0SeDV53oVXHiBDX67xv2waptEhepkH7C15izunJd10OV8s9mrTr-M7YVa4m_xHzZh6US2/pub)
 For echo-review contents, I am evaluating a WordPress Publishing on InfinityFree. And they have an unlimited free web hosting service.
 
