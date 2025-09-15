@@ -7,6 +7,9 @@
 
 # Echo Reviews
 
+### [Keep Local OrderBook with OrderBookUpdates](https://docs.google.com/document/d/e/2PACX-1vSSwqMznNQ242ljNlpUvhbkdRyksQVt1fwsN7zZuXsSCaGtGi5RnMOLRxNMYpBZyu9tb9VadqEF6CJP/pub)
+Coming soon..
+
 ### [BTC Markets Live MD Client](https://docs.google.com/document/d/e/2PACX-1vQGPCilY-8OCKJYJb52BST59fvXus8Hi6KspL7AFSp8tFhKyq6e4gkdoP5Cz5vJqWUAUtfVzaWuJCvK/pub)
 This is part of the BTC Markets API Evaluation, and this time it is about Live Market Data client with WebSocket. I have referenced the implementation here.
 
