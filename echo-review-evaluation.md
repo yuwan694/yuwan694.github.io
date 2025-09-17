@@ -8,7 +8,7 @@
 # Echo Reviews
 
 ### [Keep Local OrderBook with OrderBookUpdates](https://docs.google.com/document/d/e/2PACX-1vSSwqMznNQ242ljNlpUvhbkdRyksQVt1fwsN7zZuXsSCaGtGi5RnMOLRxNMYpBZyu9tb9VadqEF6CJP/pub)
-Coming soon..
+There could be many analyses done on other types of data, but actual trading should be done on the live feed. This OrderBookUpdates is bringing live updates of Push Pull orders, so I need to keep my local copy of Order Book with these live updates.
 
 ### [BTC Markets Candle Data](https://docs.google.com/document/d/e/2PACX-1vQw0NAVwb7HByqsBeHQWHiHc_zHqM7oJxJETVQhsruorVdxHI24bw0fK_mWQL9XfepvzCCf5xRV4u4F/pub)
 This is a part of the BTC Markets API Evaluation. With this historical data, I’ll try to see the average price changes over the time periods, and also try to see whether any specific time is busier than others.
