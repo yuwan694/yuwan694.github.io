@@ -4,7 +4,7 @@
 [echo-review-logging](https://docs.google.com/document/d/e/2PACX-1vQFA7rh2KKPP4oRsuAEwllhc1HveBz_Lgmv1o_0QrgdJie2uf1yu3SZXJNe7sFOoIzCoEDa8ZXz6xPC/pub)  
 [echo-review-guided-learning](https://docs.google.com/document/d/e/2PACX-1vRFHzBfHa-lZY0_WSHCMP3gc6i6WnucLL_4aFFPcR5a_K19mXyby4BmpDfpoxwpjzRXxxnIn58CP9_x/pub)  
 [echo-review-supporters](https://docs.google.com/document/d/e/2PACX-1vSJun5DroQp2KTCBFSvJyt83eGn8Rmv9VNQDP7PrDpD23cxUDM24N4o2OR2t0Az7raXONtur9eFBGYq/pub)  
-[echo-review-evaluation](echo-review-evaluation.md)  
+[echo-review-evaluation](echo-review-evaluation.md) **  
 echo-review-verification  
 echo-review-cross-checking  
 echo-review-feedback  
@@ -14,6 +14,9 @@ echo-review-sharing
 echo-review-tax-return  
 
 # Echo Reviews
+
+### [Anthropic AI Issues and Explanation](https://docs.google.com/document/d/e/2PACX-1vRlNKZQFtDjQ_6xHwFkYD4rTy8mbQfVj2bSZqpDKHPTW3kMa8r_x8sp8EvssSTNI4InXkXfIPe8lg57/pub)
+When I saw this article, A postmortem of three recent issues, in the hackers news, I felt immensely curious. What are the issues and how do they handle it? It would definitely be very different from the traditional software service development anyway.
 
 ### [Crypto Exchange API in Australia](https://docs.google.com/document/d/e/2PACX-1vT2OWT2km43mUTpmIXZ5ouVKNTmKR42Bqo8JMY6JvuX4BosMKBu156sD-haQAI4urvvnd5Of6aYkcdy/pub)
 After evaluation of the Alpaca SDK, I’d like to see the other APIs available in Australia. To get in to the deeper evaluation, I need to open live account. But that requires me entering my personal details, and also official documents, like driving license, passport, etc. Alpaca is based on US, so I felt unsure about doing this with Australian documents. This is the major reason I’m looking for Australian Crypto Exchange. Also Alpaca is a kind of broker, not an exchange. So this time I’d like to use an exchange API
