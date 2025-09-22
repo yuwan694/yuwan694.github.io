@@ -15,6 +15,9 @@ echo-review-tax-return
 
 # Echo Reviews
 
+### [Interactive Learning](https://docs.google.com/document/d/e/2PACX-1vRLs4t51d79K9GPph_rGTnIrNntbPthskspb-vOP8T22u-OInsdzVVT3sknkulxPaIf1D7T5MKEFB6L/pub)
+To fill in the missing pieces in Self-employed Crypto Trader, I’ll consider some interactive learning courses in the community, part-time jobs and volunteer jobs.
+
 ### [Anthropic AI Issues and Explanation](https://docs.google.com/document/d/e/2PACX-1vRlNKZQFtDjQ_6xHwFkYD4rTy8mbQfVj2bSZqpDKHPTW3kMa8r_x8sp8EvssSTNI4InXkXfIPe8lg57/pub)
 When I saw this article, A postmortem of three recent issues, in the hackers news, I felt immensely curious. What are the issues and how do they handle it? It would definitely be very different from the traditional software service development anyway.
 
