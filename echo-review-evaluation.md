@@ -7,6 +7,9 @@
 
 # Echo Reviews
 
+### [Candle for Trades](https://docs.google.com/document/d/e/2PACX-1vRhTjSdu5tmzEr7eD38besRGXcJjZ_RNlkhe-pbWm1-KKSd8m2rDQgFHJvAs-3N5rKJnebI9KkldymM/pub)
+What if I do SMA on top of the naked trades, not the periodic candle data with specific timewindow? One of the benefits of doing this is it is easier to get updated with live feed. Just adding new entries from the live feed, and retire the old entries, and recalc the SMA through. If it is feasible, then we can use this trend analysis as a live signal detector for BuyerSeller strategy.
+
 ### [Keep Local OrderBook with OrderBookUpdates](https://docs.google.com/document/d/e/2PACX-1vSSwqMznNQ242ljNlpUvhbkdRyksQVt1fwsN7zZuXsSCaGtGi5RnMOLRxNMYpBZyu9tb9VadqEF6CJP/pub)
 There could be many analyses done on other types of data, but actual trading should be done on the live feed. This OrderBookUpdates is bringing live updates of Push Pull orders, so I need to keep my local copy of Order Book with these live updates.
 
