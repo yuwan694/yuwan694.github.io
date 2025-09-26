@@ -3,6 +3,9 @@
 
 # Echo Reviews
 
+### [It looks like a stupid decision made](https://docs.google.com/document/d/10NxKYKiZ9K07GFEFf67HKvoDOBZ0UzLyPizrPNE7Bk4/)
+But it is not. It just looked like that, because people or even myself do not really see what is the difference. So whenever a new factor is added into the scene, it looks like a stupid decision made on top of the all visible evidence. The only guy who sees the invisible factor is only me in many cases, that is why people around me think the decision questionable. That is quite a noise to me, as I still wasn’t fully convinced yet either.
+
 ### [The reason why I cannot find right job (why am I stuck?)](https://docs.google.com/document/d/1P77QRRM9-NHzt9LgRVX_kU3-swzoy2JSqe9lWpzVK6o/)
 I was working in the financial industry for 15 years, and it feels like suddenly I have no job opportunities to apply. Why is that? (...) The self-employed crypto trader is enjoyable, but there are missing pieces in this life.
 
