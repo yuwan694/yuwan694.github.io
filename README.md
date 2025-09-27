@@ -1,6 +1,6 @@
 
 # What is Echo Review?
-[echo-review-learning](https://docs.google.com/document/d/e/2PACX-1vT3XmPU6_6sVhs-OJdU31uEXHULB6Q0THjeCuIE960bZsoL6LQf3gzV2G0a5CC3laNz_x9-dtYFtJrG/pub)  
+[echo-review-learning](echo-review-learning.md)  
 [echo-review-logging](https://docs.google.com/document/d/e/2PACX-1vQFA7rh2KKPP4oRsuAEwllhc1HveBz_Lgmv1o_0QrgdJie2uf1yu3SZXJNe7sFOoIzCoEDa8ZXz6xPC/pub)  
 [echo-review-guided-learning](https://docs.google.com/document/d/e/2PACX-1vRFHzBfHa-lZY0_WSHCMP3gc6i6WnucLL_4aFFPcR5a_K19mXyby4BmpDfpoxwpjzRXxxnIn58CP9_x/pub)  
 [echo-review-supporters](https://docs.google.com/document/d/e/2PACX-1vSJun5DroQp2KTCBFSvJyt83eGn8Rmv9VNQDP7PrDpD23cxUDM24N4o2OR2t0Az7raXONtur9eFBGYq/pub)  
