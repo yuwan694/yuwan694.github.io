@@ -6,6 +6,9 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 
 # Echo Reviews
 
+### [Detour, Getting back my C++ skill](https://docs.google.com/document/d/e/2PACX-1vQnnvB2uWregplqjPpoUtBKDHc4cCAiSB2u7KtPfyaqYHlsSAoj3H2SxMAQnPb2NrIsGT_Grwj0XNfj/pub)
+I was an analyst for the last 6 years or so, and barely did some C++ work. What I remember is only the Onload OOO Sending feature in R1, and IP Frag Verification done in early 2025. In other times, I was mostly Python/Pandas/Matplotlib developer and Performance Engineer, who was following the performance issues. During the interview process, however, I found people still want me to have some level of C++ skills. So I’ll reclaim my C++ skill with this Detour project.
+
 ### [Introduction to Data Science with Python](https://docs.google.com/document/d/e/2PACX-1vSosZ0-gGkIo6pfqC0ZacUfaULh2DPhNGgfF5Hlyf4MOUW_zDvwePgiFj1yQVjMwMONOPAZuupvI3l4/pub)
 As a part of the preparation for the python job interview, I decided to take an audit course for the “Introduction to Data Science with Python” in Harvard edX, CS109x. It is in audit mode, so it is a free course. I just need to know some details about what I am still missing in data science, after spending over 6 years of data processing and analysis.
 
