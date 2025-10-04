@@ -6,6 +6,9 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 
 # Echo Reviews
 
+### [Python Basics and Findings](https://docs.google.com/document/d/e/2PACX-1vQeiLfkmAiZZaj9aZxCprU7ntcxGKRFcA2iJWwefV3Nc10dfNpDmrkYe4kJooup2hlrBRu_ZXbKFT_-/pub)
+I am checking the python basics to answer the interview questions. I have used python for more than 7 years by now, but still there’s many features I have never visited. I’ll take this chance to cover the general basic concepts and features of the Python language. To start I have searched for frequent python interview questions, and tackle them one by one.
+
 ### [Detour, Getting back my C++ skill](https://docs.google.com/document/d/e/2PACX-1vQnnvB2uWregplqjPpoUtBKDHc4cCAiSB2u7KtPfyaqYHlsSAoj3H2SxMAQnPb2NrIsGT_Grwj0XNfj/pub)
 I was an analyst for the last 6 years or so, and barely did some C++ work. What I remember is only the Onload OOO Sending feature in R1, and IP Frag Verification done in early 2025. In other times, I was mostly Python/Pandas/Matplotlib developer and Performance Engineer, who was following the performance issues. During the interview process, however, I found people still want me to have some level of C++ skills. So I’ll reclaim my C++ skill with this Detour project.
 
