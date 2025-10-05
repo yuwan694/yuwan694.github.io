@@ -6,6 +6,9 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 
 # Echo Reviews
 
+### [Django Evaluation](https://docs.google.com/document/d/e/2PACX-1vTHRQAYv0_LdREqIhlwOsHO5LAfy-WJ3L3aD-4eVaNP4Jzvah3-78EPAB92AlDvm6JUPyE7wWrsOj6e/pub)
+I heard this name quite a time ago, but never had a chance to evaluate. I’ll do it now with the Django Tutorial. It seems django has some different approach to the web service backend, with the MVT (Model-View-Template).
+
 ### [Implementing Algorithms in Python](https://docs.google.com/document/d/e/2PACX-1vTcWGuHK1tvGFFBvSpOOCHmrVSUQxgPeSUaIZEV8758mrs_wzd1VcLxUmc9Vi7XCPKDBXfv9HpidOPL/pub)
 I’ve used C/C++, Shell, PHP, Perl, Java, Python, and some other computer languages as well. But I am not a computer science major, so my understanding is a bit limited in algorithms. Maybe that is why I feel difficulties in coding tests during the interview process, as they normally ask to implement some quick algorithm. I don’t think knowledge of algorithms is really necessary for the work, but it is demanded during the interview process.
 
