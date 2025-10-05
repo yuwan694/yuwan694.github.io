@@ -6,6 +6,9 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 
 # Echo Reviews
 
+### [Implementing Algorithms in Python](https://docs.google.com/document/d/e/2PACX-1vTcWGuHK1tvGFFBvSpOOCHmrVSUQxgPeSUaIZEV8758mrs_wzd1VcLxUmc9Vi7XCPKDBXfv9HpidOPL/pub)
+I’ve used C/C++, Shell, PHP, Perl, Java, Python, and some other computer languages as well. But I am not a computer science major, so my understanding is a bit limited in algorithms. Maybe that is why I feel difficulties in coding tests during the interview process, as they normally ask to implement some quick algorithm. I don’t think knowledge of algorithms is really necessary for the work, but it is demanded during the interview process.
+
 ### [Python Basics and Findings](https://docs.google.com/document/d/e/2PACX-1vQeiLfkmAiZZaj9aZxCprU7ntcxGKRFcA2iJWwefV3Nc10dfNpDmrkYe4kJooup2hlrBRu_ZXbKFT_-/pub)
 I am checking the python basics to answer the interview questions. I have used python for more than 7 years by now, but still there’s many features I have never visited. I’ll take this chance to cover the general basic concepts and features of the Python language. To start I have searched for frequent python interview questions, and tackle them one by one.
 
