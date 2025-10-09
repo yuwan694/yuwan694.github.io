@@ -16,6 +16,9 @@ echo-review-sharing
 
 # Echo Reviews
 
+### [Go Compiler Bug Story](https://docs.google.com/document/d/e/2PACX-1vQFpHi76A_Bu714e9QD5YR2inZJIfo8ELAzQ5D_0s4y4-yBJRkemompeBD_fS2ymAwM2bZJICtPUvb7/pub)
+When I read this article, another bug tracing story, I found I really like to follow these kinds of stories. Because I enjoy seeing the progress, and moreover I can understand what they are doing, and I also would do the same things if I were them.
+
 ### [Interactive Learning](https://docs.google.com/document/d/e/2PACX-1vRLs4t51d79K9GPph_rGTnIrNntbPthskspb-vOP8T22u-OInsdzVVT3sknkulxPaIf1D7T5MKEFB6L/pub)
 To fill in the missing pieces in Self-employed Crypto Trader, I’ll consider some interactive learning courses in the community, part-time jobs and volunteer jobs.
 
