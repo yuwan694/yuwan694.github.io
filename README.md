@@ -16,6 +16,9 @@ echo-review-sharing
 
 # Echo Reviews
 
+### [PyG Walker Evaluation](https://docs.google.com/document/d/e/2PACX-1vTmXp6JIKTG9YBlDBntFV9OdU93mJ98Sh6fPle-QhQtugHgSvuNywWxWiguwRIybwPncY1_M2LEgxrR/pub)
+On the internet I found PyGWalker, which supports the Dynamic Columns feature. The idea is probably pretty common with my Widget Plot, so I’ll have a look. It is an open-source project, and has lots of contributors. The “Interactive Data Exploration” is the key feature, and it is important as we can rapidly browse through the data set efficiently and effectively.
+
 ### [Go Compiler Bug Story](https://docs.google.com/document/d/e/2PACX-1vQFpHi76A_Bu714e9QD5YR2inZJIfo8ELAzQ5D_0s4y4-yBJRkemompeBD_fS2ymAwM2bZJICtPUvb7/pub)
 When I read this article, another bug tracing story, I found I really like to follow these kinds of stories. Because I enjoy seeing the progress, and moreover I can understand what they are doing, and I also would do the same things if I were them.
 
