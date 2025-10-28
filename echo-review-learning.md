@@ -6,6 +6,9 @@ It is a learning activity by redoing what I have learned, and logging all the pr
 
 # Echo Reviews
 
+### [Advanced Modern C++](https://docs.google.com/document/d/e/2PACX-1vRgvcDanV7Xo-zZH6z9I-Q4CoQfjOGRq9il0N_LfVAEAxpFugEtCK7B98NcnIwl9C5-CZfCge0m03NO/pub)
+After finding myself defined as a C/C++ programmer with analytic skills in my own CV, I was looking for some lectures for C/C++. And found this training, with a good list of items I have to look through to catch up the new concepts in modern C++. I added these lists to a google sheet, to check them out one by one. I’ll use the detour environment for this.
+
 ### [Django Evaluation](https://docs.google.com/document/d/e/2PACX-1vTHRQAYv0_LdREqIhlwOsHO5LAfy-WJ3L3aD-4eVaNP4Jzvah3-78EPAB92AlDvm6JUPyE7wWrsOj6e/pub)
 I heard this name quite a time ago, but never had a chance to evaluate. I’ll do it now with the Django Tutorial. It seems django has some different approach to the web service backend, with the MVT (Model-View-Template).
 
