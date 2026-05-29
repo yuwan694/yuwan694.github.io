@@ -17,6 +17,9 @@ echo-review-sharing
 
 # Echo Reviews
 
+### [The Importance of Documenting](https://docs.google.com/document/d/e/2PACX-1vRpDwRshhntRyOO9QshFDwkM2JTf2xwfpN25N3-HNPVG1cj5FOX3t0uVBwj81lY2oj0Yzm1HX-1qDNO/pub)
+I forgot once again of the importance of the documenting activity. I was talking to my juniors in Korea that documenting is not an extra hassle, but a necessary task to complete the objectives. It will guide you through the troublesome situations, and make you keep working on a direction every time. It sounds like taking your precious resources, like time and energy, but you may spend more resources if you are not documenting each time.
+
 ### [PyG Walker Evaluation](https://docs.google.com/document/d/e/2PACX-1vTmXp6JIKTG9YBlDBntFV9OdU93mJ98Sh6fPle-QhQtugHgSvuNywWxWiguwRIybwPncY1_M2LEgxrR/pub)
 On the internet I found PyGWalker, which supports the Dynamic Columns feature. The idea is probably pretty common with my Widget Plot, so I’ll have a look. It is an open-source project, and has lots of contributors. The “Interactive Data Exploration” is the key feature, and it is important as we can rapidly browse through the data set efficiently and effectively.
 
